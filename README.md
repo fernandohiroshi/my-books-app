@@ -28,4 +28,4 @@ These codes create a webpage displaying a list of web development and programmin
 
 [Visit the Live Site](https://hiroshibooks.vercel.app/)
 
-[![](https://skillicons.dev/icons?i=nextjs,tailwind)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nextjs,tailwind,ts)](https://skillicons.dev)
